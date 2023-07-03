@@ -14,3 +14,10 @@ in order to enhance cybersecurity measures in this project, a virtual machine wa
 - <b>Log Analysis</b>
 
 - <b>Azure Sentinel</b>
+
+
+<h2>SIEM Lab Pictures</h2>
+
+<p align="center">
+Powershell Script and Logs <br/>
+<img src="https://imgur.com/a/7CO2kYK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
