@@ -20,4 +20,4 @@ in order to enhance cybersecurity measures in this project, a virtual machine wa
 
 <p align="center">
 Powershell Script and Logs <br/>
-<img src="https://imgur.com/a/7CO2kYK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/7CO2kYK." height="80%" width="80%" alt="Disk Sanitization Steps"/>
