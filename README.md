@@ -23,3 +23,5 @@ Powershell Script and Logs <br/>
   
 ![Image 6-22-23 at 6 59 PM](https://github.com/Dbray97/SIEMLab/assets/138147547/56b58290-109c-4af0-a8bf-d31a3860d77e)
 
+<p align="center">
+Failed RDP World Map <br/>
