@@ -20,4 +20,5 @@ in order to enhance cybersecurity measures in this project, a virtual machine wa
 
 <p align="center">
 Powershell Script and Logs <br/>
-<img src="https://imgur.com/a/7CO2kYK." height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Image 6-22-23 at 6 59 PM](https://github.com/Dbray97/SIEMLab/assets/138147547/56b58290-109c-4af0-a8bf-d31a3860d77e)
+
