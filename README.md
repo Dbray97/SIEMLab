@@ -25,3 +25,5 @@ Powershell Script and Logs <br/>
 
 <p align="center">
 Failed RDP World Map <br/>
+
+![IMG_0623](https://github.com/Dbray97/SIEMLab/assets/138147547/7f4509c2-d9f4-4b04-98db-5be022fd4d94)
